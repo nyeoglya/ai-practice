@@ -9,10 +9,10 @@
 ## Development Environment
 ```
 Complier/Interpreter:
-python 3.9.13, cuda 12.5, cudnn 9.3.0
+python 3.9.13, cuda 11.8, cudnn 8.6.0
 
 Module:
-tensorflow 2.19.0
+tensorflow 2.12.0
 
 IDE: Visual Code
 OS: Windows 10
